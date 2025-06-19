@@ -1,11 +1,13 @@
 ## Hi there 👋
+I'm a passionate Computer Engineer who loves building web applications and continuously improving my skills. 🚀
 
-<!--
-**eeyll18/eeyll18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently Working On
+- **React, JavaScript, TypeScript, Node.js**
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
+- LinkedIn: in/eda-eylül-günay-a6764a238
 
-- 🔭 I’m currently working on ...
+<!-- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<--
