@@ -9,8 +9,8 @@ I'm a passionate Computer Engineer from Ankara/Turkey who loves building web app
 
 ### 📊 My GitHub Stats (Opsiyonel)
 
-1. https://github.com/anuraghazra/github-readme-stats
-2. https://github.com/ashutosh00710/github-readme-activity-graph 
+1. https://github.com/eeyll18/github-readme-stats
+2. https://github.com/eeyll18/github-readme-activity-graph 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
