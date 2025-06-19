@@ -16,8 +16,6 @@ I'm a passionate Computer Engineer from Ankara/Turkey who loves building web app
 *   REST APIs
 *   MongoDB 
 *   PostgreSQL 
-*   Vitest
-*   React Testing Library
 *   Git & GitHub
 *   Postman
 
