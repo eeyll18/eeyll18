@@ -5,7 +5,7 @@ I'm a passionate Computer Engineer from Ankara/Turkey who loves building web app
 - Actively **improving my skills in React, Next.js, JavaScript, TypeScript, and Node.js** to build robust and scalable applications
 
 ### 🛠️ My Tech Stack & Tools
-*   JavaScript (ES6+)
+*   JavaScript
 *   TypeScript
 *   React
 *   Redux Toolkit
