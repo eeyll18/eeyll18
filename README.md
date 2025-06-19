@@ -1,11 +1,21 @@
 ## Hi there 👋
-I'm a passionate Computer Engineer who loves building web applications and continuously improving my skills. 🚀
+I'm a passionate Computer Engineer from Ankara/Turkey who loves building web applications and continuously improving my skills. 🚀
 
 ### 🔭 Currently Working On
-- **React, JavaScript, TypeScript, Node.js**
+- Actively **improving my skills in React, Next.js, JavaScript, TypeScript, and Node.js** to build robust and scalable applications
 
 ### 📫 How to Reach Me
 - LinkedIn: [in/eda-eylül-günay-a6764a238](https://www.linkedin.com/in/eda-eylül-günay-a6764a238)
+
+### 📊 My GitHub Stats (Opsiyonel)
+
+1. https://github.com/anuraghazra/github-readme-stats
+2. https://github.com/ashutosh00710/github-readme-activity-graph 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
 
 <!-- 
 - 🌱 I’m currently learning ...
