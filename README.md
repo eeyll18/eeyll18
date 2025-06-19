@@ -5,7 +5,7 @@ I'm a passionate Computer Engineer who loves building web applications and conti
 - **React, JavaScript, TypeScript, Node.js**
 
 ### 📫 How to Reach Me
-- LinkedIn: in/eda-eylül-günay-a6764a238
+- LinkedIn: [in/eda-eylül-günay-a6764a238](https://www.linkedin.com/in/eda-eylül-günay-a6764a238)
 
 <!-- 
 - 🌱 I’m currently learning ...
