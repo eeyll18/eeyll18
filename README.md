@@ -8,7 +8,7 @@ I'm a passionate Computer Engineer from Ankara/Turkey who loves building web app
 *   JavaScript
 *   TypeScript
 *   React
-*   Redux Toolkit
+*   Redux
 *   Next.js 
 *   Tailwind CSS
 *   Node.js
